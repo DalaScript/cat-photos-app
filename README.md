@@ -13,7 +13,7 @@ A simple HTML project featuring a cat-themed webpage. Built as the first project
   - [🔗 Links](#-links)
   - [📌 Features](#-features)
 - [🧠 My process](#-my-process)
-  - [🛠️ Built with](#-built-with)
+  - [🛠️ Built with](#️-built-with)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
