@@ -47,9 +47,9 @@ A simple HTML project featuring a cat-themed webpage. Built as the first project
 
 ### 🛠️ Built with
 
-- HTML5
-- Accessibility best practices
-- Semantic HTML elements
+ - HTML5
+ - Accessibility best practices
+ - Semantic HTML elements
 
 ### 🔜 Next Project
 
