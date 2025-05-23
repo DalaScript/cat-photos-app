@@ -62,7 +62,7 @@ A simple HTML project featuring a cat-themed webpage. Built as the first project
 
 ### 🔜 Next Project
 
- - Cafe Menu → [View Repository](https://github.com/DalaScript/cafe-menu)
+ - Cafe Menu | *[Project 2/20]* → [View Repository](https://github.com/DalaScript/cafe-menu)
 
 ---
 
