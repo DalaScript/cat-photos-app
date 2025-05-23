@@ -14,6 +14,7 @@ A simple HTML project featuring a cat-themed webpage. Built as the first project
   - [📌 Features](#-features)
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
+  - [🎓 What I learned](#-what-i-learned)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -25,7 +26,7 @@ A simple HTML project featuring a cat-themed webpage. Built as the first project
 
 ### 📸 Screenshot
 
-![screenshot of webpage](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -38,8 +39,6 @@ A simple HTML project featuring a cat-themed webpage. Built as the first project
  - ✅ Multiple sections using semantic tags (`<main>`, `<section>`, `<footer>`)
  - ✅ A cat image gallery with clickable links
  - ✅ Lists of things cats love and hate
- - ✅ Basic form with radio buttons, checkboxes, and text input
- - ✅ Usage of `fieldset`, `legend`, and form accessibility practices
  - ✅ External and internal links
  - ✅ Clean and minimal HTML layout
 
@@ -50,6 +49,16 @@ A simple HTML project featuring a cat-themed webpage. Built as the first project
  - HTML5
  - Accessibility best practices
  - Semantic HTML elements
+
+### 🎓 What I Learned
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
 ### 🔜 Next Project
 
